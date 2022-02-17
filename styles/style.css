@@ -12,6 +12,20 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+.logo {
+  display: block;
+  width: 183px;
+  height: 32px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.logo_place_header {
+
+}
+
+/* header */
+
 .header {
   height: 100vh;
   min-height: 600px;
